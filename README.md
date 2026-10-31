@@ -12,22 +12,19 @@
 
 ## 关于
 
-哈理工在读。白天写代码，晚上打游戏，偶尔抬头看看星星。
+软件工程在读学生
 
 - 🛰 喜欢科幻、独立游戏，以及一切「看起来没什么用但很好玩」的东西
 - ✍️ 在 [wcx.codes](https://wcx.codes) 写随笔、科幻短篇和游戏推荐，随缘更新
-- 🧪 最近在折腾 AI 和各种小工具，顺手学一点前端
-- 🎮 《武士零》《星际拓荒》吹，杀戮尖塔 2 玩家
+
 
 ## 最近在折腾
 
-| 项目 | 一句话 |
+| 项目 | 简介 |
 | :-- | :-- |
-| [**wcx.codes**](https://wcx.codes) | 我的自留地 · Hexo + NexT，随笔 / 科幻 / 游戏推荐 |
-| [**project-to-template-report**](https://github.com/wcx684/project-to-template-report) | 说人话 → 出 Word 报告，按学校模板排版 |
-| [**Slay-the-Spire2-snakebite-enhance**](https://github.com/wcx684/Slay-the-Spire2-snakebite-enhance) | 杀戮尖塔 2 的蛇咬增强，随缘维护 |
+| [**wcx.codes**](https://wcx.codes) | 随机更新一些我感兴趣的东西 |
 
-## 一句话
+## 
 
 > 旅行者的旅途仍在继续。
 
